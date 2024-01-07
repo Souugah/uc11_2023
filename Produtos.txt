@@ -1,1 +1,10 @@
 private string nome
+private string licalicacao
+
+public class produto() {
+
+}
+
+public void setNome(String nome) {
+ this.nome = nome
+}
